@@ -1,4 +1,9 @@
 <h1 align="center">Tela Minecraft</h1>
+<p align="center">
+ <a href="#technology">Technology</a> • 
+ <a href="#author">Author</a> •
+ <a href="#task">Task</a>
+</p>
 <div align="center">
 <img alt="sosojosafars" src="https://github.com/user-attachments/assets/616d4d86-e952-486a-b6e2-95fef6232ac0" >
 </div>
