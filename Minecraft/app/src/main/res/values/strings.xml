@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Minecraft12300012</string>
+        <string-array name="mine_spinner">
+            <item>Madeira</item>
+            <item>Ouro</item>
+            <item>Diamante</item>
+        </string-array>
+</resources>
